@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-html5 
+ 
+![html5](https://github.com/moadhamousti/moadhamousti/assets/118165767/eac8f1dd-1745-46b1-a752-6fbf90dc881e)
+![css3](https://github.com/moadhamousti/moadhamousti/assets/118165767/c7f20d48-2940-494e-8599-14ee92b5021c)
+![python](https://github.com/moadhamousti/moadhamousti/assets/118165767/d0e462ab-5e4b-4906-944f-c5b79cdc601d)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=moadhamousti&show_icons=true&theme=ADD_THEME_HERE" width="400">
