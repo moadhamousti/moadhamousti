@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moad Hamousti</h1>
 <h3 align="center">A passionate developer from Morocco 🇲🇦 </h3>
 
+  [![HitCount](https://hits.dwyl.com/moadhamousti/{project}.svg?style=flat-square)](http://hits.dwyl.com/moadhamousti/{project})
+
 - 🌱 I’m currently learning **php**
 
 - 📫 How to reach me **moadhamousti@gmail.com**
