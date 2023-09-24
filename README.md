@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  Languages:
-![html-5](https://github.com/moadhamousti/moadhamousti/assets/118165767/53f19d34-8026-433a-ae9b-490a77539a7e) 
-
+[![html-5(1)](https://github.com/moadhamousti/moadhamousti/assets/118165767/c71c7ff9-f182-4f3e-90ae-bc8bf3ee131e)]
 <img src="https://github-readme-stats.vercel.app/api?username=moadhamousti&show_icons=true&theme=ADD_THEME_HERE" width="400">
