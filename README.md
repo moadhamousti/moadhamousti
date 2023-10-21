@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 <h1 align="center">Hi 👋, I'm Moad </h1>
 <div align="center">A passionate developer 👨🏽‍💻 from Morocco 🇲🇦</div>
   
