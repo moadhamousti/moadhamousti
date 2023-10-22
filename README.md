@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moad </h1>
-<div align="center">A passionate developer 👨🏽‍💻 from Morocco 🇲🇦</div>
+<h2 align="center">A passionate developer 👨🏽‍💻 from ***Morocco*** 🇲🇦</h2>
   
 
 - 🌱 I’m currently learning **PHP** and **REACT**  
