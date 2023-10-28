@@ -2,7 +2,7 @@
 <h2 align="center">A passionate developer 👨🏽‍💻 from Morocco 🇲🇦 </h2>
 
 
-- 🌱 I’m currently learning **PHP** and **REACT**  
+- 🌱 I’m currently learning **PHP** and **REACT** 
 
 
 - 📫 Reach me at **moadhamousti@gmail.com**  
