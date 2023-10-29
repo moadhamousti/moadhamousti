@@ -86,8 +86,9 @@
 
 # GitHub Stats 📊:
 
-![](https://github-readme-stats.vercel.app/api?username=moadhamousti&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=moadhamousti&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moadhamousti&theme=highcontrast&hide_border=false)<br/>
 
