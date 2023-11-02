@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moad </h1>
 <h2 align="center">A passionate developer 👨🏽‍💻 from Morocco 🇲🇦 </h2>
 
-- 🌱 I’m currently learning **REACT** *
+- 🌱 I’m currently learning **REACT** **
 
 - 📫 Reach me at **moadhamousti@gmail.com**  
 
